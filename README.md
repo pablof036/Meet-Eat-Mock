@@ -1,6 +1,6 @@
-# mae
+# Meet&Eat Mock App
 
-A new Flutter project.
+A quick Flutter App to showcase a bussiness idea. Available at https://pablof036.github.io/mae/.
 
 ## Getting Started
 
