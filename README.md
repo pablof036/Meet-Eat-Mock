@@ -1,6 +1,6 @@
 # Meet&Eat Mock App
 
-A quick Flutter App to showcase a bussiness idea. Available at https://pablof036.github.io/mae/.
+A quick Flutter App to showcase a bussiness idea. Available at https://pablof036.github.io/Meet-Eat-Mock/.
 
 ![Main Menu](https://user-images.githubusercontent.com/43144981/201370572-408bf3a1-7818-4127-b9aa-c2fbc8aaed2a.png)
 ![Restaurant Details](https://user-images.githubusercontent.com/43144981/201370652-b2613cd0-7117-457a-aed5-d66260310863.png)
